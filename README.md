@@ -102,7 +102,7 @@ Profit
 Quantity
 
 📈 Dashboard Preview
-sceenshot-
+sceenshot-https://github.com/desaivrushti-23/sales-performance-dashboard/blob/main/Screenshot%202026-07-07%20142949.png
 
 
 🚀 Skills Demonstrated
